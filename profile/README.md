@@ -1,4 +1,4 @@
-![Open Source at Sowpal](../images/banner.png) 
+![Open Source at Sowpal](https://github.com/sowpalai/.github/blob/main/images/banner.png)
 
 ## Get Involved
 
