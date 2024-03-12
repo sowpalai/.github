@@ -5,7 +5,7 @@
 Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
 
 * [Explore featured projects](https://opensource.sowpal.xyz/projects/)
-* [Explore open source jobs at Microsoft](https://www.sowpal.xyz/careers)
+* [Explore open source jobs at Sowpal](https://www.sowpal.xyz/careers)
 
 Visit [opensource.sowpal.xyz](https://opensource.sowpal.xyz) to learn more!
 
